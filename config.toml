@@ -7,7 +7,7 @@ contentDir = "products"
 [params]
   instagram = "playing_in_the_weeds"
   header = "Playing in the Weeds"
-  description = "Games and Entertainment"
+  description = "Games & Entertainment"
   products_title = "Games"
   reviews_title = "Reviews"
   not_found = "Sorry, but we do not have any products in this category yet."
@@ -18,12 +18,12 @@ contentDir = "products"
   ]
   collage = [
     "/images/collage-1.avif",
-    "/images/collage-3.avif",
     "/images/collage-5.avif",
-    "/images/collage-7.avif",
     "/images/collage-2.avif",
-    "/images/collage-4.avif",
     "/images/collage-6.avif",
+    "/images/collage-3.avif",
+    "/images/collage-4.avif",
+    "/images/collage-7.avif",
     "/images/collage-8.avif"
   ]
   # snipcart features will not work without an api key
