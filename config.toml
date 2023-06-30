@@ -18,12 +18,12 @@ contentDir = "products"
   ]
   collage = [
     "/images/collage-1.avif",
-    "/images/collage-2.avif",
     "/images/collage-3.avif",
-    "/images/collage-4.avif",
     "/images/collage-5.avif",
-    "/images/collage-6.avif",
     "/images/collage-7.avif",
+    "/images/collage-2.avif",
+    "/images/collage-4.avif",
+    "/images/collage-6.avif",
     "/images/collage-8.avif"
   ]
   # snipcart features will not work without an api key
