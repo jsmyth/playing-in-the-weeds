@@ -1,8 +1,7 @@
 +++
 name = "The Connoisseur"
-price = 25
 image = "/images/conn-logo.avif"
-description = "Card & Dice Game"
+description = "COMING SOON! Card & Dice Game Currently in Our Production Pipeline"
 categories = [
   "In Production"
 ]
